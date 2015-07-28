@@ -53,3 +53,4 @@ TERMINOLOGY
 - underlying adj. 底层的
 - viable 可行的
 - wrapper 封装
+- Technique 1/2/3... 技术板块 1/2/3
